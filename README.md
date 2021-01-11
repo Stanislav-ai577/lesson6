@@ -11,3 +11,9 @@
 прочитать про скролл(id).
 бэм - прочитать. (переиспользование)
 9elements бэм материалы.
+
+Правельная вёрстка:
+toptal.com. 
+утилита в гугл хром (whitehous,lighthous,caniuse).
+
+Bootstrap getboodstrap:
